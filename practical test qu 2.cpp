@@ -10,3 +10,7 @@ int main()
 	
 	printf("sum = %d", sum);
 }
+/*
+output :-
+sum = 150
+*/
