@@ -34,3 +34,34 @@ int main()
 		}
 	}
 }
+/*
+output :-
+---Calculator---1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Enter your choice 1
+Enter two numbers 2 6
+Result = 8.000000
+---Calculator---1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Enter your choice 2
+Enter two numbers 3 6
+Result = -3.000000
+---Calculator---1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Enter your choice 3
+Enter two numbers 4 9
+Result = 36.000000
+---Calculator---1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Enter your choice 4
+Enter two numbers 10 5
+Result = 2.000000
+*/
